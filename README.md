@@ -1,1 +1,5 @@
-# Baekjoon_practice
+# Coding Skill Practice!!
+
+## Work on Baekjoon, Programers, LeetCode
+
+## Believe in yourself
